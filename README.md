@@ -3,7 +3,7 @@
 ## Context: HitlerHax was/is a client which was started by the Imps, named ImpHack, then renamed by MaxRockatasky to Anti-ImpHack, and then eventually to HitlerHax. He had asked me to help him with the client, and had invited me to the repository. The first thing I had done was re-wrote the ENTIRE README.md. Shortly after I began working with Max, I had noticed the skid, and ego in him come out, and promptly took it up with him directly. To which he promptly kicked me from the repo, like a child. So... without further ado, I give you the official HitlerHax leak. P.S. I will leave the original .git history and the old README, just so you see how skiddy Max is.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Yaimsputnik5/HitlerHax-Leak/master/HitlerHaxInv.png" alt="hitlerhaxinv" />
+<img src="https://raw.githubusercontent.com/Yaimsputnik5/HitlerHax-Leak/main/src/main/resources/HitlerHaxInv.png" alt="hitlerhaxinv" />
 </p>
 
 <center><img src="src/main/resources/assets/minecraft/textures/drippler_wave.png" alt="drippler_wave" width="4000"/>  
