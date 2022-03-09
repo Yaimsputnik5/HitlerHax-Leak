@@ -4,6 +4,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Yaimsputnik5/HitlerHax-Leak/main/src/main/resources/HitlerHaxInv.png" alt="hitlerhaxinv" />
+  <img src="https://raw.githubusercontent.com/Yaimsputnik5/HitlerHax-Leak/main/src/main/resources/MaxSkidtasky.png" alt="maxskidtasky" />
 </p>
 
 <center><img src="src/main/resources/assets/minecraft/textures/drippler_wave.png" alt="drippler_wave" width="4000"/>  
